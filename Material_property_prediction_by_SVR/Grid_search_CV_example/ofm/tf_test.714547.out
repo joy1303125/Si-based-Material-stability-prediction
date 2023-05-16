@@ -1,0 +1,138 @@
+Starting /home/j/jd82/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/j/jd82 is not in AFS -- skipping quota check
+========================
+
+On host node435 :
+	 13:30:41 up 140 days, 19:40,  0 users,  load average: 18.54, 19.71, 19.95
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_481306_9Ht4v8a5su)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/j/jd82/.modules" to customize.
+
+No modules loaded
+Energy_best_score -0.0249152152393736
+Energy_best_parmeters {'C': 386, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008367686551394421
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.005, 'gamma': 0.1, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014625743407666253
+Formation_energy_best_parameers {'C': 156, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02465690544619562
+Energy_best_parmeters {'C': 316, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007911365144082865
+Packing_fraction_best_parameers {'C': 1, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014913243919891904
+Formation_energy_best_parameers {'C': 176, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02525069150145722
+Energy_best_parmeters {'C': 421, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008369826837753906
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.01455196147808962
+Formation_energy_best_parameers {'C': 246, 'epsilon': 5e-05, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02526040652223917
+Energy_best_parmeters {'C': 231, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007837768031271818
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 5e-05, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014401224670927821
+Formation_energy_best_parameers {'C': 191, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.025796053953310024
+Energy_best_parmeters {'C': 226, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007973144015451416
+Packing_fraction_best_parameers {'C': 1, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014338594795520054
+Formation_energy_best_parameers {'C': 191, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.024654379763255276
+Energy_best_parmeters {'C': 211, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008232875925351575
+Packing_fraction_best_parameers {'C': 1, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.015242414873086687
+Formation_energy_best_parameers {'C': 1, 'epsilon': 0.05, 'gamma': 0.1, 'kernel': 'rbf'}
+Energy_best_score -0.02469997459021059
+Energy_best_parmeters {'C': 271, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007774490390709597
+Packing_fraction_best_parameers {'C': 1, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.015316574745863011
+Formation_energy_best_parameers {'C': 101, 'epsilon': 5e-05, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.025472993314147027
+Energy_best_parmeters {'C': 171, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007979592166077862
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.0005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.015454572363519707
+Formation_energy_best_parameers {'C': 96, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.025067607529195287
+Energy_best_parmeters {'C': 71, 'epsilon': 5e-05, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008597905945520819
+Packing_fraction_best_parameers {'C': 11, 'epsilon': 0.005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.015131796375521433
+Formation_energy_best_parameers {'C': 166, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02262106535940035
+Energy_best_parmeters {'C': 256, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007895428218080456
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.0005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.015272374768459622
+Formation_energy_best_parameers {'C': 186, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.022830849567472188
+Energy_best_parmeters {'C': 326, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008096023577264398
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 5e-05, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014611342596365784
+Formation_energy_best_parameers {'C': 156, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.023015833614251354
+Energy_best_parmeters {'C': 236, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008157211720009045
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.0005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014487440694440303
+Formation_energy_best_parameers {'C': 196, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02453280297434241
+Energy_best_parmeters {'C': 241, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007801369579715598
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 5e-05, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014412700463758974
+Formation_energy_best_parameers {'C': 271, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.025214319324637066
+Energy_best_parmeters {'C': 236, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008360696373494042
+Packing_fraction_best_parameers {'C': 11, 'epsilon': 0.005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014367888147875691
+Formation_energy_best_parameers {'C': 156, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02293261740535979
+Energy_best_parmeters {'C': 586, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008478007533705987
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014993894993672246
+Formation_energy_best_parameers {'C': 176, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.022978175978401048
+Energy_best_parmeters {'C': 256, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008499336926034871
+Packing_fraction_best_parameers {'C': 11, 'epsilon': 0.0005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014845318493363598
+Formation_energy_best_parameers {'C': 176, 'epsilon': 5e-05, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.027119108412641896
+Energy_best_parmeters {'C': 366, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007795795273287624
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 5e-05, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014326711703968709
+Formation_energy_best_parameers {'C': 206, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.02372719791061384
+Energy_best_parmeters {'C': 296, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007911008455739639
+Packing_fraction_best_parameers {'C': 16, 'epsilon': 0.005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.015719282568724166
+Formation_energy_best_parameers {'C': 1, 'epsilon': 0.05, 'gamma': 0.1, 'kernel': 'rbf'}
+Energy_best_score -0.026044000597939168
+Energy_best_parmeters {'C': 166, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0008218781636623671
+Packing_fraction_best_parameers {'C': 11, 'epsilon': 0.005, 'gamma': 0.001, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014700722442031171
+Formation_energy_best_parameers {'C': 221, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Energy_best_score -0.025591681578764094
+Energy_best_parmeters {'C': 236, 'epsilon': 0.0005, 'gamma': 0.01, 'kernel': 'rbf'}
+Packing_fraction_best_score -0.0007819927652128032
+Packing_fraction_best_parameers {'C': 1, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
+Formationen_energy_best_score -0.014829966713657612
+Formation_energy_best_parameers {'C': 166, 'epsilon': 0.005, 'gamma': 0.01, 'kernel': 'rbf'}
